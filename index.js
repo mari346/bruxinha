@@ -206,7 +206,7 @@ const vcard = 'BEGIN:VCARD\n'
 
 + 'ORG: FIGURINHAS_WHATSAPP;\n' // Nama bot
 
-+ 'TEL;type=CELL;type=VOICE;waid=5511934713306:+55 11 93471-3306\n' // Nomor bot
++ 'TEL;type=CELL;type=VOICE;waid=5521997482887:+55 21 99748-2887\n' // Nomor bot
 
 + 'END:VCARD' 
 
